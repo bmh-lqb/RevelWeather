@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">随缘天气</string>
+    <string name="date">%1$s %2$s</string>
+</resources>

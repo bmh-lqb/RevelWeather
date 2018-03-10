@@ -1,0 +1,10 @@
+<litepal>
+    <dbname value="weather" />
+    <version value="4" />
+    <list>
+        <mapping class="com.lqb.revelweather.db.Province" />
+        <mapping class="com.lqb.revelweather.db.City" />
+        <mapping class="com.lqb.revelweather.db.County" />
+        <mapping class="com.lqb.revelweather.db.FavoriteCity" />
+    </list>
+</litepal>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="PopupMenuLine">
+        <item name="android:divider">#AAAAAA</item>
+        <item name="android:dividerHeight">1px</item>
+    </style>
+</resources>
